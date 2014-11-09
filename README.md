@@ -1,7 +1,7 @@
 KinExercise
 =======
 
-An alarm application that turn off only when the user completes 3 set of predefined instructions. 
+An alarm application written in C++ that turn off only when the user completes 3 set of predefined instructions. 
 
 Are you a heavy sleeper and alarm procrastinator?
 This is for you!
@@ -20,8 +20,10 @@ This is for you!
 		Repeat 3 times
 
 For demo video click --> following kinselfie
-<br><a href="www.youtube.com/embed/uZ2GmIipHXg" target="_blank"><img src="https://raw.githubusercontent.com/Aikerim/kinexercise/master/kinselfie.png" 
-alt="" width="300" height="250" border="10" /></a>
+<br><a href="https://www.youtube.com/watch?v=uZ2GmIipHXg" target="_blank"><img src="https://raw.githubusercontent.com/Aikerim/kinexercise/master/kinselfie.png" 
+alt="" width="300" height="250" border="10"/></a>
+
+<br> Tools: <a href="http://www.xbox.com/en-US/xbox-one/accessories/kinect-for-xbox-one" target="_blank">Kinect </a>, <a href="http://www.visualstudio.com/" target="_blank">Visual Studio </a> and heart&mind.
 
 Developers: 
 <br>
