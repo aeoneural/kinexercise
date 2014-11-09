@@ -20,3 +20,7 @@ This is for you!
 		Repeat 3 times
 
 
+Developers: 
+[Alexander Sarioglo](https://github.com/Asarioglo)
+[Aygerim Sauletkhan](https://github.com/Aikerim)	
+
