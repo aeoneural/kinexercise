@@ -19,7 +19,10 @@ This is for you!
 	c. Sit up/ Squat and hands up
 		Repeat 3 times
 
-For demo video click --> following kinselfie
+<img src="https://github.com/Aikerim/kinexercise/blob/master/IMG_6945.JPG" 
+alt="" width="450" height="400" border="10"/>
+
+<br>For demo video click --> following kinselfie
 <br><a href="https://www.youtube.com/watch?v=uZ2GmIipHXg" target="_blank"><img src="https://raw.githubusercontent.com/Aikerim/kinexercise/master/kinselfie.png" 
 alt="" width="300" height="250" border="10"/></a>
 
