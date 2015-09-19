@@ -19,6 +19,8 @@ This is for you!
 	c. Sit up/ Squat and hands up
 		Repeat 3 times
 
+
+<br> Awarded as the "Top Overall" and received 1st place at [CodeDay'14](https://codeday.org/houston)
 <img src="https://github.com/Aikerim/kinexercise/blob/master/IMG_6945.JPG" 
 alt="" width="450" height="400" border="10"/>
 
