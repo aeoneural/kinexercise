@@ -24,7 +24,7 @@ This is for you!
 <img src="https://github.com/Aikerim/kinexercise/blob/master/IMG_6945.JPG" 
 alt="" width="450" height="400" border="10"/>
 
-<br>For demo video click --> following kinselfie
+<br>For demo [video](https://www.youtube.com/watch?v=uZ2GmIipHXg) OR click on the kinselfie photo
 <br><a href="https://www.youtube.com/watch?v=uZ2GmIipHXg" target="_blank"><img src="https://raw.githubusercontent.com/Aikerim/kinexercise/master/kinselfie.png" 
 alt="" width="300" height="250" border="10"/></a>
 
