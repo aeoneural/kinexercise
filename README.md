@@ -27,9 +27,10 @@ alt="" width="300" height="250" border="10"/></a>
 
 Developers: 
 <br>
-*[Alexander Sarioglo](https://github.com/Asarioglo)* 
-<br>
 *[Aygerim Sauletkhan](https://github.com/Aikerim)*
+<br>
+*[Alexander Sarioglo](https://github.com/Asarioglo)* 
+
 
 
 
