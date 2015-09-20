@@ -35,6 +35,8 @@ Developers:
 *[Aygerim Sauletkhan](https://github.com/Aikerim)*
 <br>
 *[Alexander Sarioglo](https://github.com/Asarioglo)* 
+<br>
+*[Sherzat Aitbayev](https://github.com/sherzat3)*
 
 
 
